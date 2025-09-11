@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 ¡Bienvenido a mi GitHub!
 
-<!--
-**Epilefff666/Epilefff666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hola soy Felipe Flores, Ingeniero de Sistemas y desarrollador apasionado por crear soluciones que combinan tecnología, creatividad y buenas prácticas.
+Aquí encontrarás una colección de mis proyectos, experimentos y aprendizajes en el mundo del desarrollo de software. 🚀</p>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-Here are some ideas to get you started:
+<a href="https://github.com/Epilefff666/Epilefff666">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epilefff666&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/Epilefff666/Epilefff666">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epilefff666&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
+<h3>Longest vs Current Streak </h3>
+<a href="https://github.com/Epilefff666/Epilefff666">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epilefff666&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+</a>
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game">
+</p>
+
