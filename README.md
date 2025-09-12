@@ -1,7 +1,17 @@
+<p align = "center">
+	<img src = "https://github.com/Epilefff666/Epilefff666" alt = "Snake Game">
+</p>
 ## 👋 ¡Bienvenido a mi GitHub!
 
 <p>Hola soy Felipe Flores, Ingeniero de Sistemas y desarrollador apasionado por crear soluciones que combinan tecnología, creatividad y buenas prácticas.
 Aquí encontrarás una colección de mis proyectos, experimentos y aprendizajes en el mundo del desarrollo de software. 🚀</p>
+
+<p>
+	✨ Este espacio es más que un repositorio de código: es mi forma de compartir lo que construyo, aprender de la comunidad y seguir creciendo como profesional.
+
+🔍 Explora mis proyectos, revisa mi código y, si algo te inspira, ¡conversemos y creemos juntos! 💡
+</p>
+
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/Epilefff666/Epilefff666">
