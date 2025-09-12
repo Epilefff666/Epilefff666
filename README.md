@@ -8,19 +8,19 @@ Aquí encontrarás una colección de mis proyectos, experimentos y aprendizajes 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 <p align = "center">
 	<a href="https://github.com/Epilefff666/Epilefff666">
-  		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epilefff666&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
+  		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epilefff666&theme=dark&hide_border=true)](https://github.com/bindian0509" alt="Epilefff666's GitHub Stats Graph"/>
 	</a>
 </p>
 <br><br>
 <p align = "center">
 	<a href="https://github.com/Epilefff666/Epilefff666">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epilefff666&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epilefff666&count_private=true&show_icons=true&theme=dark&hide_border=true&custom_title=Epilefff666%20V%27s%20Github%20Stats" alt="Epilefff666's GitHub Stats" />
 	</a>
 </p>
 <h3 align = "center" >Longest vs Current Streak </h3>
 <p align = "center">
 	<a href="https://github.com/Epilefff666/Epilefff666">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epilefff666&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epilefff666&theme=dark" alt="Epilefff666's GitHub Streak Stats"/>
 </a>
 </p>
 
