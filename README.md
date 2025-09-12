@@ -7,7 +7,6 @@
 			Aquí encontrarás una colección de mis proyectos, experimentos y aprendizajes en el mundo del desarrollo de software. 🚀 </p>
 			<p>✨ Este espacio es más que un repositorio de código: es mi forma de compartir lo que construyo, aprender de la comunidad y seguir creciendo como 			profesional.
  			🔍 Explora mis proyectos, revisa mi código y, si algo te inspira, ¡conversemos y creemos juntos! 💡</p>
-			
 		</td>
 		<td>
 			<img align="center" src="https://github.com/Epilefff666/Epilefff666/blob/main/193209367_1698724330335759_5686382900773513755_n.jpg" width="100%" 					|alt="Epilefff666's GitHub Stats Graph"/>
