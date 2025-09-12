@@ -42,7 +42,7 @@
 <h3 align = "center" >Longest vs Current Streak </h3>
 <p align = "center">
 	<a href="https://github.com/Epilefff666/Epilefff666">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epilefff666&theme=dark" alt="Epilefff666's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epilefff666&theme=dark&hide_border=true" alt="Epilefff666's GitHub Streak Stats"/>
 </a>
 </p>
 
