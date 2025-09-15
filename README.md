@@ -9,7 +9,7 @@
  			🔍 Explora mis proyectos, revisa mi código y, si algo te inspira, ¡conversemos y creemos juntos! 💡</p>
 		</td>
 		<td>
-			<img align="center" src="https://github.com/Epilefff666/Epilefff666/blob/main/193209367_1698724330335759_5686382900773513755_n.jpg" width="100%" 					|alt="Epilefff666's GitHub Stats Graph"/>
+			<img align="center" src="https://github.com/Epilefff666/Epilefff666/blob/main/Epilefff666LittleFrankCoding.png" width="100%" 					|alt="Epilefff666's GitHub Stats Graph"/>
  			</div> 
 		</td>
 	</tr>
