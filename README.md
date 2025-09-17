@@ -43,7 +43,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<h2 align="center" style="margin: 5px 10px;">Skills Stack </h2> 
+<h2 align="center" style="margin: 5px 10px;">Skills Stack</h2> 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -51,7 +51,7 @@
  
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+<h2 align="center" style="margin: 5px 10px;">Github stats</h2>
 <p align = "center">
 	<a href="https://github.com/Epilefff666/Epilefff666">
   		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epilefff666&theme=dark&hide_border=true)](https://github.com/bindian0509" alt="Epilefff666's GitHub Stats Graph"/>
@@ -64,6 +64,12 @@
   		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epilefff666&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Epilefff666%20V%27s%20Github%20Stats" alt="Epilefff666's GitHub Stats" />
 		<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epilefff666&text_color=ffffff&bg_color=000000&title_color=ffffff&langs_count=15&layout=compact&hide_border=true" />
 	</a>
+</p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<h2 align="center" style="margin: 5px 10px;">Daily.dev stats</h2>
+<p align="center">
+	<a href="https://app.daily.dev/epilefff666"><img src="https://api.daily.dev/devcards/v2/83bogCFRUDCLsDGp0I2qv.png?r=jbb&type=wide"  width="750" alt="Felipe FF's Dev Card"/></a>
 </p>
 
 <br><br>
