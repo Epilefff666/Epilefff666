@@ -61,7 +61,7 @@
 <br><br>
 <p align = "center">
 	<a href="https://github.com/Epilefff666/Epilefff666">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epilefff666&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Epilefff666%27s%20Github%20Stats" alt="Epilefff666's GitHub Stats" />
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Epilefff666&count_private=true&show_icons=true&theme=dark&cache_seconds=21600&hide_border=true&rank_icon=github&custom_title=Epilefff666%27s%20Github%20Stats" alt="Epilefff666's GitHub Stats" />
 		<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epilefff666&text_color=ffffff&bg_color=000000&title_color=ffffff&langs_count=15&layout=compact&hide_border=true" />
 	</a>
 </p>
