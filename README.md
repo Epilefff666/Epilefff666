@@ -80,4 +80,5 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game">
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-![](./profile-3d-contrib/profile-night-green.svg)
+
+![](./profile-3d-contrib/profile-night-view.svg)
